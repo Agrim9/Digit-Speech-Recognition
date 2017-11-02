@@ -1,6 +1,6 @@
 .m~
-.Digits_male_8Khz/
-.Digits_female_8Khz/
+.Digits_male_8Khz
+.Digits_female_8Khz
 .ipynb_checkpoints
 .wav
 *.aux
