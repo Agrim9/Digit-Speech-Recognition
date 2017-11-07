@@ -6,7 +6,7 @@
 
 ### Files
 
-1.`bag_of_frames.py`: Code for N-fold CV for bag of frames method. Requires MFCC features to be calculated and stored in `./Extracted_Feats/` in the specified format.
+1. `bag_of_frames.py`: Code for N-fold CV for bag of frames method. Requires MFCC features to be calculated and stored in `./Extracted_Feats/` in the specified format.
 2. `DTW.py`: Code for N-fold CV for DTW method. Requires MFCC features to be calculated and stored in `./Extracted_Feats/` in the specified format.
 3. `live_endpointing.py`: Code for real time endpointing used for interactive demo
 4. `Live_Test.ipynb`: IPython notebook to test the code in an interactive setting. Requires VQ codebook to be generated from each speakers data using k means. This was tested for 8 clusters, however accuracy may improve if the number of clusters are increased.
