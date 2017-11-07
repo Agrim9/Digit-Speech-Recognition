@@ -71,7 +71,9 @@ for speak in range(1,65):
             accuracy8=accuracy8+1
             accuracy_pred8[digit]=accuracy_pred8[digit]+1
 
-        print("Predicted: "+ str(predic4)+" and "+str(predic8)+" for expected digit: "+str(digit))
+        print("Predicted: "+ str(predic4)+ " for expected digit: "+str(digit) + " k4")
+        print("Predicted: "+str(predic8)+" for expected digit: "+str(digit) + " k8")
+
 print("Net Accuracy for k=4")
 print(accuracy4/640)
 print("Accuracy Per Digit for k=4")
