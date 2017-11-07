@@ -1,0 +1,720 @@
+Script started on Monday 06 November 2017 02:45:03 PM IST
+If Hamilton had prevailed
+]0;agrim@Gengar-Comp: ~/Desktop/Digit-Speech-Recognitionagrim@Gengar-Comp:~/Desktop/Digit-Speech-Recognition$ exitEXITtime python3 mfcc_check.py 
+Speaker 1 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 9 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 1 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 1 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 1 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 2 Uterrence: 1
+Predicted: 6 for expected digit: 0
+Predicted: 6 for expected digit: 1
+Predicted: 6 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 6 for expected digit: 4
+Predicted: 4 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 2 Uterrence: 2
+Predicted: 6 for expected digit: 0
+Predicted: 6 for expected digit: 1
+Predicted: 6 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 6 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 2 Uterrence: 3
+Predicted: 6 for expected digit: 0
+Predicted: 6 for expected digit: 1
+Predicted: 6 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 6 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 2 Uterrence: 4
+Predicted: 6 for expected digit: 0
+Predicted: 6 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 6 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 3 Uterrence: 1
+Predicted: 6 for expected digit: 0
+Predicted: 4 for expected digit: 1
+Predicted: 4 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 3 Uterrence: 2
+Predicted: 6 for expected digit: 0
+Predicted: 4 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 3 Uterrence: 3
+Predicted: 6 for expected digit: 0
+Predicted: 4 for expected digit: 1
+Predicted: 4 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 6 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 6 for expected digit: 9
+Speaker 3 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 4 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 4 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 6 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 4 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 1 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 4 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 1 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 5 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 5 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 0 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 5 for expected digit: 9
+Speaker 5 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 5 for expected digit: 9
+Speaker 5 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 0 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 5 for expected digit: 9
+Speaker 5 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 6 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 9 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 6 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 6 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 6 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 9 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 6 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 7 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 2 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 7 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 2 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 7 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 2 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 7 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 6 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 2 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 8 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 8 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 2 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 8 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 8 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 3 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 9 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 9 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 9 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 9 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 9 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 10 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 10 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 5 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 10 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 10 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 11 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 11 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 11 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 11 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 12 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 12 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 12 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 12 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 13 Uterrence: 1
+Predicted: 1 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 9 for expected digit: 5
+Predicted: 3 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 13 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 9 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 13 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 13 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 3 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 14 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 14 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 14 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 9 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 14 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 15 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 15 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 8 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 15 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 9 for expected digit: 7
+Predicted: 5 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 15 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 9 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 5 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 16 Uterrence: 1
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 5 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 5 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Speaker 16 Uterrence: 2
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 5 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 5 for expected digit: 8
+Predicted: 5 for expected digit: 9
+Speaker 16 Uterrence: 3
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 5 for expected digit: 8
+Predicted: 5 for expected digit: 9
+Speaker 16 Uterrence: 4
+Predicted: 0 for expected digit: 0
+Predicted: 1 for expected digit: 1
+Predicted: 2 for expected digit: 2
+Predicted: 0 for expected digit: 3
+Predicted: 4 for expected digit: 4
+Predicted: 5 for expected digit: 5
+Predicted: 6 for expected digit: 6
+Predicted: 7 for expected digit: 7
+Predicted: 6 for expected digit: 8
+Predicted: 9 for expected digit: 9
+Net Accuracy
+0.7359375
+Accuracy Per Digit
+[ 0.875     0.8125    0.90625   0.265625  0.90625   0.78125   0.9375
+  0.71875   0.34375   0.8125  ]
+
+real	150m7.226s
+user	149m45.520s
+sys	0m15.252s
+]0;agrim@Gengar-Comp: ~/Desktop/Digit-Speech-Recognitionagrim@Gengar-Comp:~/Desktop/Digit-Speech-Recognition$ exit
+exit
+
+Script done on Monday 06 November 2017 05:15:26 PM IST

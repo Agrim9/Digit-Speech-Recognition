@@ -15,7 +15,7 @@ accuracy_perd=np.zeros(10)
 for speak in range(1,65):
     print("Speaker "+ str(int((speak-1)/4)+1)+" Uterrence: "+ str(int(speak-1)%4+1))
     for digit in range(10):
-        filename="./Extracted_Feats/"+str(digit)+"/"+str(speak)+".npy"
+        filename="./Extracted_Feats_ib/"+str(digit)+"/"+str(speak)+".npy"
         zr=np.load(filename)
         forbidden=[int(speak/4)*4+1,int(speak/4)*4+2,int(speak/4)*4+3,int(speak/4)*4+4]
         exc_samp=[i for i in range(1,65) if i not in forbidden]
@@ -25,7 +25,7 @@ for speak in range(1,65):
             dist=0
             count=1
             for i in exc_samp:
-                filename="./Extracted_Feats/"+str(d)+"/"+str(i)+".npy"
+                filename="./Extracted_Feats_ib/"+str(d)+"/"+str(i)+".npy"
                 tarr=np.load(filename)
                 # Find all closest distances to the frames
                 for j in range(zr.shape[0]):
