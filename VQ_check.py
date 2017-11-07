@@ -18,7 +18,7 @@ accuracy_pred8=np.zeros(10)
 for speak in range(1,65):
     print("Speaker "+ str(int((speak-1)/4)+1)+" Uterrence: "+ str(int(speak-1)%4+1))
     for digit in range(10):
-        filename="./Extracted_Feats_ib/"+str(digit)+"/"+str(speak)+".npy"
+        filename="./Extracted_Feats/"+str(digit)+"/"+str(speak)+".npy"
         zr=np.load(filename)
         #print(exc_samp)
         pred4=np.zeros(10)
@@ -33,7 +33,7 @@ for speak in range(1,65):
             k8=np.load(filename)
             for j in range(zr.shape[0]):
                     # Find Closest Matching Frame
-                    # Instead of adding distancesto all centroids, add distance to one centroid min
+                    # Instead of adding distances to all centroids, add distance to one centroid min
                     begin=True
                     min_dist_to_a_centroid4=0
                     for centroid in k4:

@@ -1,6 +1,5 @@
 Script started on Tuesday 07 November 2017 12:31:46 AM IST
-If Hamilton had prevailed
-]0;agrim@Gengar-Comp: ~/Desktop/Digit-Speech-Recognitionagrim@Gengar-Comp:~/Desktop/Digit-Speech-Recognition$ exittime python3 mfcc_check.py 
+agrim@Gengar-Comp: ~/Desktop/Digit-Speech-Recognition agrim@Gengar-Comp:~/Desktop/Digit-Speech-Recognition$ time python3 mfcc_check.py 
 Speaker 1 Uterrence: 1
 Predicted: 0 for expected digit: 0
 Predicted: 9 for expected digit: 1
@@ -714,7 +713,5 @@ Accuracy Per Digit
 real	159m2.784s
 user	158m43.916s
 sys	0m13.028s
-]0;agrim@Gengar-Comp: ~/Desktop/Digit-Speech-Recognitionagrim@Gengar-Comp:~/Desktop/Digit-Speech-Recognition$ exit
-exit
 
 Script done on Tuesday 07 November 2017 07:16:52 AM IST

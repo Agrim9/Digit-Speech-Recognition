@@ -1,4 +1,4 @@
-#hBased on Paper by Rabiner and Sambur http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6778857
+#Based on Paper by Rabiner and Sambur http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6778857
 from scipy import signal
 from scipy.io.wavfile import write,read
 import matplotlib.pyplot as plt
@@ -11,7 +11,7 @@ from scipy.linalg import toeplitz,inv
 from scipy.fftpack import fft,fftshift,ifft
 
 
-def live_endpointer(inp,Fs):
+def stenergy_endpointer(inp,Fs):
     Ts=1/Fs
     #plt.title("Raw Input")
     #plt.plot(inp,'blue')
@@ -34,14 +34,13 @@ def live_endpointer(inp,Fs):
     sil_inp=np.append(sil_inp_st,sil_inp_end)
     #Compute ZCR
     
-    #Compute Peak Energy Imax and Silence Energy Imin
+    #Compute Peak Energy Imax and Silence Energy maximum
     Imx=np.amax(st_avg)
     Imn=np.amax(sil_inp)
     #Compute ITL and ITU
-    I1=0.3*(Imx-Imn)+Imn
+    I1=0.03*(Imx-Imn)+Imn
     I2=50*Imn
-    ITL=Imx/10
-    #ITL=Imx/10
+    ITL=min(I1,I2)
     print("ITL is "+str(ITL))
     plt.plot(st_avg)
     ITU=1.2*ITL

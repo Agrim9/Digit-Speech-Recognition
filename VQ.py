@@ -13,11 +13,12 @@ for speaker in range(1,17):
         list_of_frames=[]
         # Concat all feature vectors for the particular digit
         for i in exc_samp:
-            filename="./Extracted_Feats_ib/"+str(digit)+"/"+str(i)+".npy"
+            filename="./Extracted_Feats/"+str(digit)+"/"+str(i)+".npy"
             tarr=np.load(filename)
             for k in range(tarr.shape[0]):
                 list_of_frames.append(tarr[k])
         arr_of_frames=np.array(list_of_frames)
+        #Do k means appropriately
         kmeans4 = KMeans(n_clusters=4).fit(arr_of_frames)
         kmeans8 = KMeans(n_clusters=8).fit(arr_of_frames)
         print("Kmeans 4")
@@ -28,6 +29,4 @@ for speaker in range(1,17):
         np.save(filename,kmeans4.cluster_centers_)
         filename="./VQ_codebooks/Speaker "+str(speaker)+"/"+str(digit)+"/k8"
         np.save(filename,kmeans8.cluster_centers_)
-
-        #Now we have obtained all concat feature vectors in list_of_frames
 
