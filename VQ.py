@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 
 for speaker in range(1,17):
-    print("VQ Codebooks for Speaker "+ str(int((speaker-1)/4)+1))
+    print("VQ Codebooks for Speaker "+ str(speaker))
     for digit in range(10):
         forbidden=[(speaker-1)*4+1,(speaker-1)*4+2,(speaker-1)*4+3,(speaker-1)*4+4]
         print(forbidden)

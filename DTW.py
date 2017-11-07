@@ -49,6 +49,6 @@ for speak in range(1,65):
             accuracy_perd[digit]=accuracy_perd[digit]+1
         print("Predicted: "+ str(predic)+" for expected digit: "+str(digit))
 print("Net Accuracy")
-print(accuracy/64)
+print(accuracy/640)
 print("Accuracy Per Digit")
-print(accuracy_perd/4)
+print(accuracy_perd/64)
